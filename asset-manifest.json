@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/TheBigJouls/dragondins-mint-page-4/static/css/main.af04176c.chunk.css",
-    "main.js": "/TheBigJouls/dragondins-mint-page-4/static/js/main.ce80c8d5.chunk.js",
-    "main.js.map": "/TheBigJouls/dragondins-mint-page-4/static/js/main.ce80c8d5.chunk.js.map",
-    "runtime-main.js": "/TheBigJouls/dragondins-mint-page-4/static/js/runtime-main.f9a72f87.js",
-    "runtime-main.js.map": "/TheBigJouls/dragondins-mint-page-4/static/js/runtime-main.f9a72f87.js.map",
-    "static/css/2.e91b11d9.chunk.css": "/TheBigJouls/dragondins-mint-page-4/static/css/2.e91b11d9.chunk.css",
-    "static/js/2.ce1b4506.chunk.js": "/TheBigJouls/dragondins-mint-page-4/static/js/2.ce1b4506.chunk.js",
-    "static/js/2.ce1b4506.chunk.js.map": "/TheBigJouls/dragondins-mint-page-4/static/js/2.ce1b4506.chunk.js.map",
-    "static/js/3.373497ad.chunk.js": "/TheBigJouls/dragondins-mint-page-4/static/js/3.373497ad.chunk.js",
-    "static/js/3.373497ad.chunk.js.map": "/TheBigJouls/dragondins-mint-page-4/static/js/3.373497ad.chunk.js.map",
-    "index.html": "/TheBigJouls/dragondins-mint-page-4/index.html",
-    "static/css/2.e91b11d9.chunk.css.map": "/TheBigJouls/dragondins-mint-page-4/static/css/2.e91b11d9.chunk.css.map",
-    "static/css/main.af04176c.chunk.css.map": "/TheBigJouls/dragondins-mint-page-4/static/css/main.af04176c.chunk.css.map",
-    "static/js/2.ce1b4506.chunk.js.LICENSE.txt": "/TheBigJouls/dragondins-mint-page-4/static/js/2.ce1b4506.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/TheBigJouls/dragondins-mint-page-4/static/media/background2.2e88dab2.png"
+    "main.css": "/TheBigJouls/candy-machine-v2-responsive-ui/static/css/main.b1a8f555.chunk.css",
+    "main.js": "/TheBigJouls/candy-machine-v2-responsive-ui/static/js/main.ce80c8d5.chunk.js",
+    "main.js.map": "/TheBigJouls/candy-machine-v2-responsive-ui/static/js/main.ce80c8d5.chunk.js.map",
+    "runtime-main.js": "/TheBigJouls/candy-machine-v2-responsive-ui/static/js/runtime-main.c7fc483e.js",
+    "runtime-main.js.map": "/TheBigJouls/candy-machine-v2-responsive-ui/static/js/runtime-main.c7fc483e.js.map",
+    "static/css/2.e91b11d9.chunk.css": "/TheBigJouls/candy-machine-v2-responsive-ui/static/css/2.e91b11d9.chunk.css",
+    "static/js/2.924c1775.chunk.js": "/TheBigJouls/candy-machine-v2-responsive-ui/static/js/2.924c1775.chunk.js",
+    "static/js/2.924c1775.chunk.js.map": "/TheBigJouls/candy-machine-v2-responsive-ui/static/js/2.924c1775.chunk.js.map",
+    "static/js/3.373497ad.chunk.js": "/TheBigJouls/candy-machine-v2-responsive-ui/static/js/3.373497ad.chunk.js",
+    "static/js/3.373497ad.chunk.js.map": "/TheBigJouls/candy-machine-v2-responsive-ui/static/js/3.373497ad.chunk.js.map",
+    "index.html": "/TheBigJouls/candy-machine-v2-responsive-ui/index.html",
+    "static/css/2.e91b11d9.chunk.css.map": "/TheBigJouls/candy-machine-v2-responsive-ui/static/css/2.e91b11d9.chunk.css.map",
+    "static/css/main.b1a8f555.chunk.css.map": "/TheBigJouls/candy-machine-v2-responsive-ui/static/css/main.b1a8f555.chunk.css.map",
+    "static/js/2.924c1775.chunk.js.LICENSE.txt": "/TheBigJouls/candy-machine-v2-responsive-ui/static/js/2.924c1775.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/TheBigJouls/candy-machine-v2-responsive-ui/static/media/background2.2e88dab2.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.f9a72f87.js",
+    "static/js/runtime-main.c7fc483e.js",
     "static/css/2.e91b11d9.chunk.css",
-    "static/js/2.ce1b4506.chunk.js",
-    "static/css/main.af04176c.chunk.css",
+    "static/js/2.924c1775.chunk.js",
+    "static/css/main.b1a8f555.chunk.css",
     "static/js/main.ce80c8d5.chunk.js"
   ]
 }
