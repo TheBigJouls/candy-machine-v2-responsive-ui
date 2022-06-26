@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/TheBigJouls/candy-machine-v2-responsive-ui/static/css/main.b1a8f555.chunk.css",
-    "main.js": "/TheBigJouls/candy-machine-v2-responsive-ui/static/js/main.ce80c8d5.chunk.js",
-    "main.js.map": "/TheBigJouls/candy-machine-v2-responsive-ui/static/js/main.ce80c8d5.chunk.js.map",
-    "runtime-main.js": "/TheBigJouls/candy-machine-v2-responsive-ui/static/js/runtime-main.c7fc483e.js",
-    "runtime-main.js.map": "/TheBigJouls/candy-machine-v2-responsive-ui/static/js/runtime-main.c7fc483e.js.map",
-    "static/css/2.e91b11d9.chunk.css": "/TheBigJouls/candy-machine-v2-responsive-ui/static/css/2.e91b11d9.chunk.css",
-    "static/js/2.924c1775.chunk.js": "/TheBigJouls/candy-machine-v2-responsive-ui/static/js/2.924c1775.chunk.js",
-    "static/js/2.924c1775.chunk.js.map": "/TheBigJouls/candy-machine-v2-responsive-ui/static/js/2.924c1775.chunk.js.map",
-    "static/js/3.373497ad.chunk.js": "/TheBigJouls/candy-machine-v2-responsive-ui/static/js/3.373497ad.chunk.js",
-    "static/js/3.373497ad.chunk.js.map": "/TheBigJouls/candy-machine-v2-responsive-ui/static/js/3.373497ad.chunk.js.map",
-    "index.html": "/TheBigJouls/candy-machine-v2-responsive-ui/index.html",
-    "static/css/2.e91b11d9.chunk.css.map": "/TheBigJouls/candy-machine-v2-responsive-ui/static/css/2.e91b11d9.chunk.css.map",
-    "static/css/main.b1a8f555.chunk.css.map": "/TheBigJouls/candy-machine-v2-responsive-ui/static/css/main.b1a8f555.chunk.css.map",
-    "static/js/2.924c1775.chunk.js.LICENSE.txt": "/TheBigJouls/candy-machine-v2-responsive-ui/static/js/2.924c1775.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/TheBigJouls/candy-machine-v2-responsive-ui/static/media/background2.2e88dab2.png"
+    "main.css": "/dragondins-mint-page-4/static/css/main.83700b48.chunk.css",
+    "main.js": "/dragondins-mint-page-4/static/js/main.ce80c8d5.chunk.js",
+    "main.js.map": "/dragondins-mint-page-4/static/js/main.ce80c8d5.chunk.js.map",
+    "runtime-main.js": "/dragondins-mint-page-4/static/js/runtime-main.10cb8218.js",
+    "runtime-main.js.map": "/dragondins-mint-page-4/static/js/runtime-main.10cb8218.js.map",
+    "static/css/2.e91b11d9.chunk.css": "/dragondins-mint-page-4/static/css/2.e91b11d9.chunk.css",
+    "static/js/2.405a29f9.chunk.js": "/dragondins-mint-page-4/static/js/2.405a29f9.chunk.js",
+    "static/js/2.405a29f9.chunk.js.map": "/dragondins-mint-page-4/static/js/2.405a29f9.chunk.js.map",
+    "static/js/3.373497ad.chunk.js": "/dragondins-mint-page-4/static/js/3.373497ad.chunk.js",
+    "static/js/3.373497ad.chunk.js.map": "/dragondins-mint-page-4/static/js/3.373497ad.chunk.js.map",
+    "index.html": "/dragondins-mint-page-4/index.html",
+    "static/css/2.e91b11d9.chunk.css.map": "/dragondins-mint-page-4/static/css/2.e91b11d9.chunk.css.map",
+    "static/css/main.83700b48.chunk.css.map": "/dragondins-mint-page-4/static/css/main.83700b48.chunk.css.map",
+    "static/js/2.405a29f9.chunk.js.LICENSE.txt": "/dragondins-mint-page-4/static/js/2.405a29f9.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/dragondins-mint-page-4/static/media/background2.2e88dab2.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.c7fc483e.js",
+    "static/js/runtime-main.10cb8218.js",
     "static/css/2.e91b11d9.chunk.css",
-    "static/js/2.924c1775.chunk.js",
-    "static/css/main.b1a8f555.chunk.css",
+    "static/js/2.405a29f9.chunk.js",
+    "static/css/main.83700b48.chunk.css",
     "static/js/main.ce80c8d5.chunk.js"
   ]
 }
