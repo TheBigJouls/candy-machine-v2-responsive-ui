@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.3ac6cb95.chunk.css",
-    "main.js": "/static/js/main.84478c8e.chunk.js",
-    "main.js.map": "/static/js/main.84478c8e.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.c9dfae6f.js",
-    "runtime-main.js.map": "/static/js/runtime-main.c9dfae6f.js.map",
-    "static/css/2.e91b11d9.chunk.css": "/static/css/2.e91b11d9.chunk.css",
-    "static/js/2.0c4e6fa6.chunk.js": "/static/js/2.0c4e6fa6.chunk.js",
-    "static/js/2.0c4e6fa6.chunk.js.map": "/static/js/2.0c4e6fa6.chunk.js.map",
-    "static/js/3.373497ad.chunk.js": "/static/js/3.373497ad.chunk.js",
-    "static/js/3.373497ad.chunk.js.map": "/static/js/3.373497ad.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.e91b11d9.chunk.css.map": "/static/css/2.e91b11d9.chunk.css.map",
-    "static/css/main.3ac6cb95.chunk.css.map": "/static/css/main.3ac6cb95.chunk.css.map",
-    "static/js/2.0c4e6fa6.chunk.js.LICENSE.txt": "/static/js/2.0c4e6fa6.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/static/media/background2.2e88dab2.png"
+    "main.css": "/candy-machine-v2-responsive-ui/static/css/main.679ba68a.chunk.css",
+    "main.js": "/candy-machine-v2-responsive-ui/static/js/main.84478c8e.chunk.js",
+    "main.js.map": "/candy-machine-v2-responsive-ui/static/js/main.84478c8e.chunk.js.map",
+    "runtime-main.js": "/candy-machine-v2-responsive-ui/static/js/runtime-main.04e827dc.js",
+    "runtime-main.js.map": "/candy-machine-v2-responsive-ui/static/js/runtime-main.04e827dc.js.map",
+    "static/css/2.e91b11d9.chunk.css": "/candy-machine-v2-responsive-ui/static/css/2.e91b11d9.chunk.css",
+    "static/js/2.15ff1f2b.chunk.js": "/candy-machine-v2-responsive-ui/static/js/2.15ff1f2b.chunk.js",
+    "static/js/2.15ff1f2b.chunk.js.map": "/candy-machine-v2-responsive-ui/static/js/2.15ff1f2b.chunk.js.map",
+    "static/js/3.373497ad.chunk.js": "/candy-machine-v2-responsive-ui/static/js/3.373497ad.chunk.js",
+    "static/js/3.373497ad.chunk.js.map": "/candy-machine-v2-responsive-ui/static/js/3.373497ad.chunk.js.map",
+    "index.html": "/candy-machine-v2-responsive-ui/index.html",
+    "static/css/2.e91b11d9.chunk.css.map": "/candy-machine-v2-responsive-ui/static/css/2.e91b11d9.chunk.css.map",
+    "static/css/main.679ba68a.chunk.css.map": "/candy-machine-v2-responsive-ui/static/css/main.679ba68a.chunk.css.map",
+    "static/js/2.15ff1f2b.chunk.js.LICENSE.txt": "/candy-machine-v2-responsive-ui/static/js/2.15ff1f2b.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/candy-machine-v2-responsive-ui/static/media/background2.2e88dab2.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.c9dfae6f.js",
+    "static/js/runtime-main.04e827dc.js",
     "static/css/2.e91b11d9.chunk.css",
-    "static/js/2.0c4e6fa6.chunk.js",
-    "static/css/main.3ac6cb95.chunk.css",
+    "static/js/2.15ff1f2b.chunk.js",
+    "static/css/main.679ba68a.chunk.css",
     "static/js/main.84478c8e.chunk.js"
   ]
 }
